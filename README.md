@@ -6,7 +6,7 @@ Transfer text file to json
 python3 parse.py
 ```
 
-### Learned or NOT
+### Something New
 ```
 g = [[12,34,45],[1,3,5], [23, 67,78]]
 da = []
@@ -20,7 +20,7 @@ for i in g:
 ```
 $ [{'i': 45}, {'i': 45}, {'i': 45}, {'i': 5}, {'i': 5}, {'i': 5}, {'i': 78}, {'i': 78}, {'i': 78}]
 ```
-#### should be done in  this way :
+#### should Have :
 ```
 for i in g:
     for k in i:
